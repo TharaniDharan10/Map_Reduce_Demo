@@ -118,7 +118,8 @@ docker exec $CONTAINER_NAME bash -c "
         echo 'SUCCESS! MapReduce Job Completed!'
         echo '======================================'
 
-        # Get results
+        # Get results (remove old file first)
+        rm -f /home/hadoop/output/results.txt
         hdfs dfs -get /user/hadoop/output/sales-analysis/part-r-00000 /home/hadoop/output/results.txt
 
         echo 'Results (Company -> Total Sales):'
