@@ -1,0 +1,7 @@
+1,amazon,mobile,2000
+2,flipkart,laptop,50000
+3,amazon,tablet,15000
+4,flipkart,mobile,18000
+5,amazon,laptop,45000
+6,flipkart,tablet,12000
+7,meesho,lap,43505
