@@ -1,0 +1,12 @@
+1,amazon,mobile,2000
+2,flipkart,laptop,50000
+3,amazon,tablet,15000
+4,flipkart,mobile,18000
+5,amazon,laptop,45000
+6,flipkart,tablet,12000
+7,ebay,pc,12070
+8,uber,auto,21395
+9,ola,car,2025
+10,uber,cab,1997
+11,ola,cab,84359
+12,swiggy,dosa,43545
